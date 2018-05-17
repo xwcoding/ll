@@ -1,2 +1,2 @@
 # ll
-learning log from python crash course
+learning log using Python 3.6 and Django 2.0
