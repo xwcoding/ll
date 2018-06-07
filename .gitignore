@@ -1,0 +1,5 @@
+#ignore files and folders
+.vscode/
+ll_env/
+**/__pycache__/
+*.sqlite3
